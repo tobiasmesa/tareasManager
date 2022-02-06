@@ -4,3 +4,11 @@
 //fucion borrar div 
 //funcione editar div
 //
+
+
+document.body.onload = addElement;
+
+
+function addElement(){
+    
+}
