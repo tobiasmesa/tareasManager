@@ -10,5 +10,8 @@ document.body.onload = addElement;
 
 
 function addElement(){
-    
+    // crea un nuevo div
+  // y añade contenido
+  var newDiv = document.createElement("div");
+  
 }
